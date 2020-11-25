@@ -27,7 +27,7 @@ License:        GPL-2.0
 Group:          Productivity/Clustering/HA
 AutoReqProv:    on
 Summary:        Resource agent to control SAP instances using sapstartsrv
-Version:        0.1.0
+Version:        0.2.0
 Release:        0
 Url:            https://github.com/SUSE/SAPStartSrv-resourceAgent
 
